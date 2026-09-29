@@ -5,61 +5,61 @@
         {
             "channelid": "3453",
             "channelname": "GLOBO SP",
-            "channelicon": "http://vodpic.tryywqydadad.cyou/pic/GLOBO_SP.png",
+            "channelicon": "http://vodpic.pmkifisdsa.cyou/pic/GLOBO_SP.png",
             "msg": "GFC"
         },
         {
             "channelid": "3450",
             "channelname": "GLOBO RJ",
-            "channelicon": "http://vodpic.tryywqydadad.cyou/pic/GLOBO_RJ.png",
+            "channelicon": "http://vodpic.pmkifisdsa.cyou/pic/GLOBO_RJ.png",
             "msg": "GFC"
         },
         {
             "channelid": "3093",
             "channelname": "ESPN",
-            "channelicon": "http://vodpic.tryywqydadad.cyou/pic/ESPN.png",
+            "channelicon": "http://vodpic.pmkifisdsa.cyou/pic/ESPN.png",
             "msg": "GFC"
         },
         {
             "channelid": "3355",
             "channelname": "PFC 1",
-            "channelicon": "http://vodpic.tryywqydadad.cyou/pic/PFC1.png",
+            "channelicon": "http://vodpic.pmkifisdsa.cyou/pic/PFC1.png",
             "msg": "GFC"
         },
         {
             "channelid": "3096",
             "channelname": "SPORTV",
-            "channelicon": "http://vodpic.tryywqydadad.cyou/pic/SPORTV.png",
+            "channelicon": "http://vodpic.pmkifisdsa.cyou/pic/SPORTV.png",
             "msg": "GFC"
         },
         {
             "channelid": "3156",
             "channelname": "RECORD",
-            "channelicon": "http://vodpic.tryywqydadad.cyou/pic/RECORD.png",
+            "channelicon": "http://vodpic.pmkifisdsa.cyou/pic/RECORD.png",
             "msg": "GFC"
         },
         {
             "channelid": "3390",
             "channelname": "ANIMAL PLANET",
-            "channelicon": "http://vodpic.tryywqydadad.cyou/pic/ANIMAL_PLANET.png",
+            "channelicon": "http://vodpic.pmkifisdsa.cyou/pic/ANIMAL_PLANET.png",
             "msg": "GFC"
         },
         {
             "channelid": "3470",
             "channelname": "HISTORY",
-            "channelicon": "http://vodpic.tryywqydadad.cyou/pic/HISTORY.png",
+            "channelicon": "http://vodpic.pmkifisdsa.cyou/pic/HISTORY.png",
             "msg": "GFC"
         },
         {
             "channelid": "3162",
             "channelname": "SBT",
-            "channelicon": "http://vodpic.tryywqydadad.cyou/pic/SBT.png",
+            "channelicon": "http://vodpic.pmkifisdsa.cyou/pic/SBT.png",
             "msg": "GFC"
         },
         {
             "channelid": "3348",
             "channelname": "UNIVERSAL",
-            "channelicon": "http://vodpic.tryywqydadad.cyou/pic/UNIVERSAL.png",
+            "channelicon": "http://vodpic.pmkifisdsa.cyou/pic/UNIVERSAL.png",
             "msg": "GFC"
         }
     ],
@@ -67,62 +67,62 @@
         {
             "sid": "124835",
             "showname": "Acampamento Miasma: Adolescência, Sexo e Morte Dublado",
-            "logo_s": "http://vodpic.tryywqydadad.cyou/pic/1789824541740.jpg",
-            "logo_b": "http://vodpic.tryywqydadad.cyou/pic/1790149382076.jpg"
+            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1789824541740.jpg",
+            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1790149382076.jpg"
         },
         {
             "sid": "124608",
             "showname": "O Fim da Rua Dublado",
-            "logo_s": "http://vodpic.tryywqydadad.cyou/pic/1789524301655.jpg",
-            "logo_b": "http://vodpic.tryywqydadad.cyou/pic/1790149616822.jpg"
+            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1789524301655.jpg",
+            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1790149616822.jpg"
         },
         {
             "sid": "124956",
             "showname": "One Last Shot Dublado",
-            "logo_s": "http://vodpic.tryywqydadad.cyou/pic/1790068202162.jpg",
-            "logo_b": "http://vodpic.tryywqydadad.cyou/pic/1790149709566.jpg"
+            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1790068202162.jpg",
+            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1790149709566.jpg"
         },
         {
             "sid": "124964",
             "showname": "Batman: Knightfall - Part 1: Knightfall Dublado",
-            "logo_s": "http://vodpic.tryywqydadad.cyou/pic/1790085841667.jpg",
-            "logo_b": "http://vodpic.tryywqydadad.cyou/pic/1790149767677.jpg"
+            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1790085841667.jpg",
+            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1790149767677.jpg"
         },
         {
             "sid": "124713",
             "showname": "Herança de Narcisa Dublado",
-            "logo_s": "http://vodpic.tryywqydadad.cyou/pic/1789641301749.jpg",
-            "logo_b": "http://vodpic.tryywqydadad.cyou/pic/1790149861926.jpg"
+            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1789641301749.jpg",
+            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1790149861926.jpg"
         },
         {
             "sid": "124833",
             "showname": "Escândalo e Intriga 1ª Temporada Dublado",
-            "logo_s": "http://vodpic.tryywqydadad.cyou/pic/1789810741285.jpg",
-            "logo_b": "http://vodpic.tryywqydadad.cyou/pic/1790150148361.jpg"
+            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1789810741285.jpg",
+            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1790150148361.jpg"
         },
         {
             "sid": "124820",
             "showname": "Terra da Máfia 2ª Temporada Dublado",
-            "logo_s": "http://vodpic.tryywqydadad.cyou/pic/1789806721693.jpg",
-            "logo_b": "http://vodpic.tryywqydadad.cyou/pic/1790150245251.jpg"
+            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1789806721693.jpg",
+            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1790150245251.jpg"
         },
         {
             "sid": "124883",
             "showname": "Outlander: Blood of My Blood 2ª Temporada Dublado",
-            "logo_s": "http://vodpic.tryywqydadad.cyou/pic/1789886161736.jpg",
-            "logo_b": "http://vodpic.tryywqydadad.cyou/pic/1790150374596.jpg"
+            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1789886161736.jpg",
+            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1790150374596.jpg"
         },
         {
             "sid": "124814",
             "showname": "Beleza Plástica 1ª Temporada Dublado",
-            "logo_s": "http://vodpic.tryywqydadad.cyou/pic/1789731562568.jpg",
-            "logo_b": "http://vodpic.tryywqydadad.cyou/pic/1790150523037.jpg"
+            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1789731562568.jpg",
+            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1790150523037.jpg"
         },
         {
             "sid": "124718",
             "showname": "Slow Horses 6ª Temporada Dublado",
-            "logo_s": "http://vodpic.tryywqydadad.cyou/pic/1789644661876.jpg",
-            "logo_b": "http://vodpic.tryywqydadad.cyou/pic/1790150583713.jpg"
+            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1789644661876.jpg",
+            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1790150583713.jpg"
         }
     ]
 }

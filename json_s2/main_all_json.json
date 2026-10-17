@@ -1,0 +1,860 @@
+[
+  {
+    "main_1": {
+      "code": 0,
+      "msg": "success",
+      "prodata": [
+        {
+          "pf": "8",
+          "logo": "http://vodpic.pmkifisdsa.cyou/pic/1792224446757.jpg",
+          "sid": 125403,
+          "ismultitrack": 0,
+          "name": "Homem-Aranha: Um Novo Dia Dublado",
+          "quality": 1,
+          "hassubtitle": false,
+          "updatestatus": false,
+          "iscate": false
+        },
+        {
+          "pf": "6.2",
+          "logo": "http://vodpic.pmkifisdsa.cyou/pic/1792224512610.jpg",
+          "sid": 125402,
+          "ismultitrack": 0,
+          "name": "Sobrenatural: Agora Entre Nós Dublado",
+          "quality": 1,
+          "hassubtitle": false,
+          "updatestatus": false,
+          "iscate": false
+        },
+        {
+          "pf": "7.3",
+          "logo": "http://vodpic.pmkifisdsa.cyou/pic/1791463959709.jpg",
+          "sid": 125374,
+          "ismultitrack": 0,
+          "name": "Toy Story 5 Dublado",
+          "quality": 1,
+          "hassubtitle": false,
+          "updatestatus": false,
+          "iscate": false
+        },
+        {
+          "pf": "7.7",
+          "logo": "http://vodpic.pmkifisdsa.cyou/pic/1791463833406.jpg",
+          "sid": 125369,
+          "ismultitrack": 0,
+          "name": "Ninja Wars: Blackfox Vs Shogun's Ninja Dublado",
+          "quality": 1,
+          "hassubtitle": false,
+          "updatestatus": false,
+          "iscate": false
+        },
+        {
+          "pf": "0",
+          "logo": "http://vodpic.pmkifisdsa.cyou/pic/filmes_netflix.png",
+          "sid": 0,
+          "ismultitrack": 0,
+          "name": "Netflix",
+          "quality": 1,
+          "hassubtitle": false,
+          "updatestatus": false,
+          "iscate": true
+        },
+        {
+          "pf": "0",
+          "logo": "http://vodpic.pmkifisdsa.cyou/pic/filmes_marvel.png",
+          "sid": 0,
+          "ismultitrack": 0,
+          "name": "Marvel",
+          "quality": 1,
+          "hassubtitle": false,
+          "updatestatus": false,
+          "iscate": true
+        },
+        {
+          "pf": "0",
+          "logo": "http://vodpic.pmkifisdsa.cyou/pic/filmes_disney.png",
+          "sid": 0,
+          "ismultitrack": 0,
+          "name": "Disney+",
+          "quality": 1,
+          "hassubtitle": false,
+          "updatestatus": false,
+          "iscate": true
+        },
+        {
+          "pf": "0",
+          "logo": "http://vodpic.pmkifisdsa.cyou/pic/filmes_app.png",
+          "sid": 0,
+          "ismultitrack": 0,
+          "name": "Apple TV",
+          "quality": 1,
+          "hassubtitle": false,
+          "updatestatus": false,
+          "iscate": true
+        },
+        {
+          "pf": "0",
+          "logo": "http://vodpic.pmkifisdsa.cyou/pic/filmes_todos.png",
+          "sid": 0,
+          "ismultitrack": 0,
+          "name": "Todos",
+          "quality": 1,
+          "hassubtitle": false,
+          "updatestatus": false,
+          "iscate": true
+        }
+      ]
+    }
+  },
+  {
+    "main_2": {
+      "code": 0,
+      "msg": "success",
+      "prodata": [
+        {
+          "pf": "7.9",
+          "logo": "http://vodpic.pmkifisdsa.cyou/pic/1792224763674.jpg",
+          "sid": 125753,
+          "ismultitrack": 0,
+          "name": "Tulsa King 4ª Temporada Dublado",
+          "quality": 1,
+          "hassubtitle": false,
+          "updatestatus": false,
+          "iscate": false
+        },
+        {
+          "pf": "8",
+          "logo": "http://vodpic.pmkifisdsa.cyou/pic/1792224804004.jpg",
+          "sid": 125684,
+          "ismultitrack": 0,
+          "name": "Galera FC 2ª Temporada Dublado",
+          "quality": 1,
+          "hassubtitle": false,
+          "updatestatus": false,
+          "iscate": false
+        },
+        {
+          "pf": "8",
+          "logo": "http://vodpic.pmkifisdsa.cyou/pic/1792042741668.jpg",
+          "sid": 125682,
+          "ismultitrack": 0,
+          "name": "Tyson 1ª Temporada Dublado",
+          "quality": 1,
+          "hassubtitle": false,
+          "updatestatus": false,
+          "iscate": false
+        },
+        {
+          "pf": "7.0",
+          "logo": "http://vodpic.pmkifisdsa.cyou/pic/1792213201987.jpg",
+          "sid": 125771,
+          "ismultitrack": 0,
+          "name": "Marília Mendonça: Sentimento Louco 1ª Temporada Dublado",
+          "quality": 1,
+          "hassubtitle": false,
+          "updatestatus": false,
+          "iscate": false
+        },
+        {
+          "pf": "0",
+          "logo": "http://vodpic.pmkifisdsa.cyou/pic/series_netflix.png",
+          "sid": 0,
+          "ismultitrack": 0,
+          "name": "Netflix",
+          "quality": 1,
+          "hassubtitle": false,
+          "updatestatus": false,
+          "iscate": true
+        },
+        {
+          "pf": "0",
+          "logo": "http://vodpic.pmkifisdsa.cyou/pic/series_app.png",
+          "sid": 0,
+          "ismultitrack": 0,
+          "name": "Apple TV+",
+          "quality": 1,
+          "hassubtitle": false,
+          "updatestatus": false,
+          "iscate": true
+        },
+        {
+          "pf": "0",
+          "logo": "http://vodpic.pmkifisdsa.cyou/pic/series_hbo.png",
+          "sid": 0,
+          "ismultitrack": 0,
+          "name": "HBO",
+          "quality": 1,
+          "hassubtitle": false,
+          "updatestatus": false,
+          "iscate": true
+        },
+        {
+          "pf": "0",
+          "logo": "http://vodpic.pmkifisdsa.cyou/pic/series_primevideo.png",
+          "sid": 0,
+          "ismultitrack": 0,
+          "name": "Amazon Prime",
+          "quality": 1,
+          "hassubtitle": false,
+          "updatestatus": false,
+          "iscate": true
+        },
+        {
+          "pf": "0",
+          "logo": "http://vodpic.pmkifisdsa.cyou/pic/series_todos.png",
+          "sid": 0,
+          "ismultitrack": 0,
+          "name": "Todos",
+          "quality": 1,
+          "hassubtitle": false,
+          "updatestatus": false,
+          "iscate": true
+        }
+      ]
+    }
+  },
+  {
+    "main_39": {
+      "code": 0,
+      "msg": "success",
+      "prodata": [
+        {
+          "pf": "8.5",
+          "logo": "http://vodpic.pmkifisdsa.cyou/pic/1784011624439.jpg",
+          "sid": 121074,
+          "ismultitrack": 0,
+          "name": "Witch Hat Atelier 1ª Temporada Dublado",
+          "quality": 1,
+          "hassubtitle": false,
+          "updatestatus": false,
+          "iscate": false
+        },
+        {
+          "pf": "7.9",
+          "logo": "http://vodpic.pmkifisdsa.cyou/pic/1784011681349.jpg",
+          "sid": 121219,
+          "ismultitrack": 0,
+          "name": "Parede de Gelo 1ª Temporada Dublado",
+          "quality": 1,
+          "hassubtitle": false,
+          "updatestatus": false,
+          "iscate": false
+        },
+        {
+          "pf": "6.6",
+          "logo": "http://vodpic.pmkifisdsa.cyou/pic/1782966301862.jpg",
+          "sid": 121065,
+          "ismultitrack": 0,
+          "name": "Fist of the North Star: Hokuto no Ken 1ª Temporada Dublado",
+          "quality": 1,
+          "hassubtitle": false,
+          "updatestatus": false,
+          "iscate": false
+        },
+        {
+          "pf": "8.7",
+          "logo": "http://vodpic.pmkifisdsa.cyou/pic/1782962281532.jpg",
+          "sid": 121055,
+          "ismultitrack": 0,
+          "name": "X-Men '97 2ª Temporada Dublado",
+          "quality": 1,
+          "hassubtitle": false,
+          "updatestatus": false,
+          "iscate": false
+        },
+        {
+          "pf": "0",
+          "logo": "http://vodpic.pmkifisdsa.cyou/pic/anime_dublado.png",
+          "sid": 0,
+          "ismultitrack": 0,
+          "name": "Dublado",
+          "quality": 1,
+          "hassubtitle": false,
+          "updatestatus": false,
+          "iscate": true
+        },
+        {
+          "pf": "0",
+          "logo": "http://vodpic.pmkifisdsa.cyou/pic/anime_acao.png",
+          "sid": 0,
+          "ismultitrack": 0,
+          "name": "Ação",
+          "quality": 1,
+          "hassubtitle": false,
+          "updatestatus": false,
+          "iscate": true
+        },
+        {
+          "pf": "0",
+          "logo": "http://vodpic.pmkifisdsa.cyou/pic/anime_aventura.png",
+          "sid": 0,
+          "ismultitrack": 0,
+          "name": "Aventura",
+          "quality": 1,
+          "hassubtitle": false,
+          "updatestatus": false,
+          "iscate": true
+        },
+        {
+          "pf": "0",
+          "logo": "http://vodpic.pmkifisdsa.cyou/pic/anime_disney.png",
+          "sid": 0,
+          "ismultitrack": 0,
+          "name": "Disney+",
+          "quality": 1,
+          "hassubtitle": false,
+          "updatestatus": false,
+          "iscate": true
+        },
+        {
+          "pf": "0",
+          "logo": "http://vodpic.pmkifisdsa.cyou/pic/anime_todos.png",
+          "sid": 0,
+          "ismultitrack": 0,
+          "name": "Todos",
+          "quality": 1,
+          "hassubtitle": false,
+          "updatestatus": false,
+          "iscate": true
+        }
+      ]
+    }
+  },
+  {
+    "main_40": {
+      "code": 0,
+      "msg": "success",
+      "prodata": [
+        {
+          "pf": "0",
+          "logo": "http://vodpic.pmkifisdsa.cyou/pic/kids_animados.png",
+          "sid": 0,
+          "ismultitrack": 0,
+          "name": "Animados",
+          "quality": 1,
+          "hassubtitle": false,
+          "updatestatus": false,
+          "iscate": true
+        },
+        {
+          "pf": "0",
+          "logo": "http://vodpic.pmkifisdsa.cyou/pic/kids_filmes.png",
+          "sid": 0,
+          "ismultitrack": 0,
+          "name": "Filmes",
+          "quality": 1,
+          "hassubtitle": false,
+          "updatestatus": false,
+          "iscate": true
+        },
+        {
+          "pf": "8",
+          "logo": "http://vodpic.pmkifisdsa.cyou/pic/1705276624376.jpg",
+          "sid": 75592,
+          "ismultitrack": 0,
+          "name": "DuckTales: Os Caçadores de Aventuras 2ª Temporada Dublado",
+          "quality": 1,
+          "hassubtitle": false,
+          "updatestatus": false,
+          "iscate": false
+        },
+        {
+          "pf": "8.7",
+          "logo": "http://vodpic.pmkifisdsa.cyou/pic/1705405322978.jpg",
+          "sid": 75578,
+          "ismultitrack": 0,
+          "name": "Doc McStuffins: The Doc and Bella Are In! 1ª Temporada",
+          "quality": 1,
+          "hassubtitle": false,
+          "updatestatus": false,
+          "iscate": false
+        },
+        {
+          "pf": "7.4",
+          "logo": "http://vodpic.pmkifisdsa.cyou/pic/1705405493828.jpg",
+          "sid": 75543,
+          "ismultitrack": 0,
+          "name": "Doug 1ª Temporada Dublado",
+          "quality": 1,
+          "hassubtitle": false,
+          "updatestatus": false,
+          "iscate": false
+        },
+        {
+          "pf": "0",
+          "logo": "http://vodpic.pmkifisdsa.cyou/pic/kide_disney.png",
+          "sid": 0,
+          "ismultitrack": 0,
+          "name": "Disney+",
+          "quality": 1,
+          "hassubtitle": false,
+          "updatestatus": false,
+          "iscate": true
+        },
+        {
+          "pf": "0",
+          "logo": "http://vodpic.pmkifisdsa.cyou/pic/kide_tts.png",
+          "sid": 0,
+          "ismultitrack": 0,
+          "name": "Age 2-6",
+          "quality": 1,
+          "hassubtitle": false,
+          "updatestatus": false,
+          "iscate": true
+        },
+        {
+          "pf": "0",
+          "logo": "http://vodpic.pmkifisdsa.cyou/pic/kide_stow.png",
+          "sid": 0,
+          "ismultitrack": 0,
+          "name": "Age 7-12",
+          "quality": 1,
+          "hassubtitle": false,
+          "updatestatus": false,
+          "iscate": true
+        },
+        {
+          "pf": "0",
+          "logo": "http://vodpic.pmkifisdsa.cyou/pic/kide_todos.png",
+          "sid": 0,
+          "ismultitrack": 0,
+          "name": "Todos",
+          "quality": 1,
+          "hassubtitle": false,
+          "updatestatus": false,
+          "iscate": true
+        }
+      ]
+    }
+  },
+  {
+    "main_100": {
+      "code": 0,
+      "msg": "success",
+      "prodata": [
+        {
+          "title": "Filmes 2026",
+          "prolist": [
+            {
+              "pf": "8",
+              "logo": "http://vodpic.pmkifisdsa.cyou/pic/1791465390462.jpg",
+              "sid": 125403,
+              "ismultitrack": 0,
+              "name": "Homem-Aranha: Um Novo Dia Dublado",
+              "quality": 1,
+              "hassubtitle": false,
+              "updatestatus": false,
+              "iscate": false
+            },
+            {
+              "pf": "6.2",
+              "logo": "http://vodpic.pmkifisdsa.cyou/pic/1791465361895.jpg",
+              "sid": 125402,
+              "ismultitrack": 0,
+              "name": "Sobrenatural: Agora Entre Nós Dublado",
+              "quality": 1,
+              "hassubtitle": false,
+              "updatestatus": false,
+              "iscate": false
+            },
+            {
+              "pf": "7.3",
+              "logo": "http://vodpic.pmkifisdsa.cyou/pic/1791463959709.jpg",
+              "sid": 125374,
+              "ismultitrack": 0,
+              "name": "Toy Story 5 Dublado",
+              "quality": 1,
+              "hassubtitle": false,
+              "updatestatus": false,
+              "iscate": false
+            },
+            {
+              "pf": "7.7",
+              "logo": "http://vodpic.pmkifisdsa.cyou/pic/1791463833406.jpg",
+              "sid": 125369,
+              "ismultitrack": 0,
+              "name": "Ninja Wars: Blackfox Vs Shogun's Ninja Dublado",
+              "quality": 1,
+              "hassubtitle": false,
+              "updatestatus": false,
+              "iscate": false
+            },
+            {
+              "pf": "9.1",
+              "logo": "http://vodpic.pmkifisdsa.cyou/pic/1792164324746.jpg",
+              "sid": 125752,
+              "ismultitrack": 0,
+              "name": "A terapia certa Dublado",
+              "quality": 1,
+              "hassubtitle": false,
+              "updatestatus": false,
+              "iscate": false
+            },
+            {
+              "pf": "7.7",
+              "logo": "http://vodpic.pmkifisdsa.cyou/pic/1792131481640.jpg",
+              "sid": 125738,
+              "ismultitrack": 0,
+              "name": "Tenzing Dublado",
+              "quality": 1,
+              "hassubtitle": false,
+              "updatestatus": false,
+              "iscate": false
+            }
+          ]
+        },
+        {
+          "title": "Séries 2026",
+          "prolist": [
+            {
+              "pf": "7.9",
+              "logo": "http://vodpic.pmkifisdsa.cyou/pic/1792195141839.jpg",
+              "sid": 125753,
+              "ismultitrack": 0,
+              "name": "Tulsa King 4ª Temporada Dublado",
+              "quality": 1,
+              "hassubtitle": false,
+              "updatestatus": false,
+              "iscate": false
+            },
+            {
+              "pf": "8",
+              "logo": "http://vodpic.pmkifisdsa.cyou/pic/1792046041516.jpg",
+              "sid": 125684,
+              "ismultitrack": 0,
+              "name": "Galera FC 2ª Temporada Dublado",
+              "quality": 1,
+              "hassubtitle": false,
+              "updatestatus": false,
+              "iscate": false
+            },
+            {
+              "pf": "8",
+              "logo": "http://vodpic.pmkifisdsa.cyou/pic/1792042741668.jpg",
+              "sid": 125682,
+              "ismultitrack": 0,
+              "name": "Tyson 1ª Temporada Dublado",
+              "quality": 1,
+              "hassubtitle": false,
+              "updatestatus": false,
+              "iscate": false
+            },
+            {
+              "pf": "7.0",
+              "logo": "http://vodpic.pmkifisdsa.cyou/pic/1792213201987.jpg",
+              "sid": 125771,
+              "ismultitrack": 0,
+              "name": "Marília Mendonça: Sentimento Louco 1ª Temporada Dublado",
+              "quality": 1,
+              "hassubtitle": false,
+              "updatestatus": false,
+              "iscate": false
+            },
+            {
+              "pf": "8.2",
+              "logo": "http://vodpic.pmkifisdsa.cyou/pic/1792027741558.jpg",
+              "sid": 125677,
+              "ismultitrack": 0,
+              "name": "VisionQuest 1ª Temporada Dublado",
+              "quality": 1,
+              "hassubtitle": false,
+              "updatestatus": false,
+              "iscate": false
+            },
+            {
+              "pf": "8.2",
+              "logo": "http://vodpic.pmkifisdsa.cyou/pic/1791785402016.jpg",
+              "sid": 125595,
+              "ismultitrack": 0,
+              "name": "Eu Sou Aquele 1ª Temporada Dublado",
+              "quality": 1,
+              "hassubtitle": false,
+              "updatestatus": false,
+              "iscate": false
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "main_101": {
+      "code": 0,
+      "msg": "success",
+      "prodata": [
+        {
+          "title": "Lançamentos",
+          "prolist": [
+            {
+              "pf": "7.7",
+              "logo": "http://vodpic.pmkifisdsa.cyou/pic/1706837493014.jpg",
+              "sid": 75772,
+              "ismultitrack": 0,
+              "name": "Missão: Impossível - Acerto de Contas Parte Um Dublado",
+              "quality": 3,
+              "hassubtitle": false,
+              "updatestatus": false,
+              "iscate": false
+            },
+            {
+              "pf": "6",
+              "logo": "http://vodpic.pmkifisdsa.cyou/pic/1706837485663.jpg",
+              "sid": 75771,
+              "ismultitrack": 0,
+              "name": "Besouro Azul Dublado",
+              "quality": 3,
+              "hassubtitle": false,
+              "updatestatus": false,
+              "iscate": false
+            },
+            {
+              "pf": "7.9",
+              "logo": "http://vodpic.pmkifisdsa.cyou/pic/1706837478046.jpg",
+              "sid": 75770,
+              "ismultitrack": 0,
+              "name": "Guardiões da Galáxia Vol. 3 Dublado",
+              "quality": 3,
+              "hassubtitle": false,
+              "updatestatus": false,
+              "iscate": false
+            },
+            {
+              "pf": "8.3",
+              "logo": "http://vodpic.pmkifisdsa.cyou/pic/1706837469883.jpg",
+              "sid": 75769,
+              "ismultitrack": 0,
+              "name": "Top Gun: Maverick Dublado",
+              "quality": 3,
+              "hassubtitle": false,
+              "updatestatus": false,
+              "iscate": false
+            },
+            {
+              "pf": "6.7",
+              "logo": "http://vodpic.pmkifisdsa.cyou/pic/1706837461867.jpg",
+              "sid": 75768,
+              "ismultitrack": 0,
+              "name": "The Flash Dublado",
+              "quality": 3,
+              "hassubtitle": false,
+              "updatestatus": false,
+              "iscate": false
+            },
+            {
+              "pf": "6.6",
+              "logo": "http://vodpic.pmkifisdsa.cyou/pic/1704507123737.jpg",
+              "sid": 75295,
+              "ismultitrack": 0,
+              "name": "Indiana Jones e A Relíquia do Destino 4K Dublado",
+              "quality": 3,
+              "hassubtitle": false,
+              "updatestatus": false,
+              "iscate": false
+            }
+          ]
+        },
+        {
+          "title": "Filmes populares",
+          "prolist": [
+            {
+              "pf": "7.7",
+              "logo": "http://vodpic.pmkifisdsa.cyou/pic/1703052472627.jpg",
+              "sid": 74722,
+              "ismultitrack": 0,
+              "name": "Toy Story 4 4K Dublado",
+              "quality": 1,
+              "hassubtitle": false,
+              "updatestatus": false,
+              "iscate": false
+            },
+            {
+              "pf": "5",
+              "logo": "http://vodpic.pmkifisdsa.cyou/pic/1706247958227.jpg",
+              "sid": 75664,
+              "ismultitrack": 0,
+              "name": "Megatubarão 2 Dublado",
+              "quality": 3,
+              "hassubtitle": false,
+              "updatestatus": false,
+              "iscate": false
+            },
+            {
+              "pf": "7.7",
+              "logo": "http://vodpic.pmkifisdsa.cyou/pic/1706608264383.jpg",
+              "sid": 75725,
+              "ismultitrack": 0,
+              "name": "John Wick 4: Baba Yaga Dublado",
+              "quality": 3,
+              "hassubtitle": false,
+              "updatestatus": false,
+              "iscate": false
+            },
+            {
+              "pf": "6",
+              "logo": "http://vodpic.pmkifisdsa.cyou/pic/1706608271433.jpg",
+              "sid": 75726,
+              "ismultitrack": 0,
+              "name": "Transformers: O Despertar das Feras Dublado",
+              "quality": 3,
+              "hassubtitle": false,
+              "updatestatus": false,
+              "iscate": false
+            },
+            {
+              "pf": "8.0",
+              "logo": "http://vodpic.pmkifisdsa.cyou/pic/1702880369061.jpg",
+              "sid": 74589,
+              "ismultitrack": 0,
+              "name": "Perdido em Marte 4K Dublado",
+              "quality": 1,
+              "hassubtitle": false,
+              "updatestatus": false,
+              "iscate": false
+            },
+            {
+              "pf": "8.6",
+              "logo": "http://vodpic.pmkifisdsa.cyou/pic/1706608277960.jpg",
+              "sid": 75727,
+              "ismultitrack": 0,
+              "name": "Homem-Aranha: Através do Aranhaverso Dublado",
+              "quality": 3,
+              "hassubtitle": false,
+              "updatestatus": false,
+              "iscate": false
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "recommd_launcher_s2": {
+      "msg": "success",
+      "code": 0,
+      "live": [
+        {
+          "channelid": "3453",
+          "channelname": "GLOBO SP",
+          "channelicon": "http://vodpic.pmkifisdsa.cyou/pic/GLOBO_SP.png",
+          "msg": "GFC"
+        },
+        {
+          "channelid": "3450",
+          "channelname": "GLOBO RJ",
+          "channelicon": "http://vodpic.pmkifisdsa.cyou/pic/GLOBO_RJ.png",
+          "msg": "GFC"
+        },
+        {
+          "channelid": "3093",
+          "channelname": "ESPN",
+          "channelicon": "http://vodpic.pmkifisdsa.cyou/pic/ESPN.png",
+          "msg": "GFC"
+        },
+        {
+          "channelid": "3355",
+          "channelname": "PFC 1",
+          "channelicon": "http://vodpic.pmkifisdsa.cyou/pic/PFC1.png",
+          "msg": "GFC"
+        },
+        {
+          "channelid": "3096",
+          "channelname": "SPORTV",
+          "channelicon": "http://vodpic.pmkifisdsa.cyou/pic/SPORTV.png",
+          "msg": "GFC"
+        },
+        {
+          "channelid": "3156",
+          "channelname": "RECORD",
+          "channelicon": "http://vodpic.pmkifisdsa.cyou/pic/RECORD.png",
+          "msg": "GFC"
+        },
+        {
+          "channelid": "3390",
+          "channelname": "ANIMAL PLANET",
+          "channelicon": "http://vodpic.pmkifisdsa.cyou/pic/ANIMAL_PLANET.png",
+          "msg": "GFC"
+        },
+        {
+          "channelid": "3470",
+          "channelname": "HISTORY",
+          "channelicon": "http://vodpic.pmkifisdsa.cyou/pic/HISTORY.png",
+          "msg": "GFC"
+        },
+        {
+          "channelid": "3162",
+          "channelname": "SBT",
+          "channelicon": "http://vodpic.pmkifisdsa.cyou/pic/SBT.png",
+          "msg": "GFC"
+        },
+        {
+          "channelid": "3348",
+          "channelname": "UNIVERSAL",
+          "channelicon": "http://vodpic.pmkifisdsa.cyou/pic/UNIVERSAL.png",
+          "msg": "GFC"
+        }
+      ],
+      "vod": [
+        {
+          "sid": "125403",
+          "showname": "Homem-Aranha: Um Novo Dia Dublado",
+          "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1791465390462.jpg",
+          "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1792224466937.jpg"
+        },
+        {
+          "sid": "125402",
+          "showname": "Sobrenatural: Agora Entre Nós Dublado",
+          "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1791465361895.jpg",
+          "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1792224498790.jpg"
+        },
+        {
+          "sid": "125374",
+          "showname": "Toy Story 5 Dublado",
+          "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1791463959709.jpg",
+          "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1792224558988.jpg"
+        },
+        {
+          "sid": "125369",
+          "showname": "Ninja Wars: Blackfox Vs Shogun's Ninja Dublado",
+          "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1791463833406.jpg",
+          "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1792224588134.jpg"
+        },
+        {
+          "sid": "125752",
+          "showname": "A terapia certa Dublado",
+          "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1792164324746.jpg",
+          "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1792224644217.jpg"
+        },
+        {
+          "sid": "125753",
+          "showname": "Tulsa King 4ª Temporada Dublado",
+          "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1792195141839.jpg",
+          "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1792224749058.jpg"
+        },
+        {
+          "sid": "125684",
+          "showname": "Galera FC 2ª Temporada Dublado",
+          "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1792046041516.jpg",
+          "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1792224819939.jpg"
+        },
+        {
+          "sid": "125682",
+          "showname": "Tyson 1ª Temporada Dublado",
+          "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1792042741668.jpg",
+          "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1792224838711.jpg"
+        },
+        {
+          "sid": "125771",
+          "showname": "Marília Mendonça: Sentimento Louco 1ª Temporada Dublado",
+          "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1792213201987.jpg",
+          "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1792224930834.jpg"
+        },
+        {
+          "sid": "125677",
+          "showname": "VisionQuest 1ª Temporada Dublado",
+          "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1792027741558.jpg",
+          "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1792224954605.jpg"
+        }
+      ]
+    }
+  }
+]

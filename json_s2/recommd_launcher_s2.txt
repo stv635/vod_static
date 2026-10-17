@@ -1,0 +1,128 @@
+{
+    "msg": "success",
+    "code": 0,
+    "live": [
+        {
+            "channelid": "3453",
+            "channelname": "GLOBO SP",
+            "channelicon": "http://vodpic.pmkifisdsa.cyou/pic/GLOBO_SP.png",
+            "msg": "GFC"
+        },
+        {
+            "channelid": "3450",
+            "channelname": "GLOBO RJ",
+            "channelicon": "http://vodpic.pmkifisdsa.cyou/pic/GLOBO_RJ.png",
+            "msg": "GFC"
+        },
+        {
+            "channelid": "3093",
+            "channelname": "ESPN",
+            "channelicon": "http://vodpic.pmkifisdsa.cyou/pic/ESPN.png",
+            "msg": "GFC"
+        },
+        {
+            "channelid": "3355",
+            "channelname": "PFC 1",
+            "channelicon": "http://vodpic.pmkifisdsa.cyou/pic/PFC1.png",
+            "msg": "GFC"
+        },
+        {
+            "channelid": "3096",
+            "channelname": "SPORTV",
+            "channelicon": "http://vodpic.pmkifisdsa.cyou/pic/SPORTV.png",
+            "msg": "GFC"
+        },
+        {
+            "channelid": "3156",
+            "channelname": "RECORD",
+            "channelicon": "http://vodpic.pmkifisdsa.cyou/pic/RECORD.png",
+            "msg": "GFC"
+        },
+        {
+            "channelid": "3390",
+            "channelname": "ANIMAL PLANET",
+            "channelicon": "http://vodpic.pmkifisdsa.cyou/pic/ANIMAL_PLANET.png",
+            "msg": "GFC"
+        },
+        {
+            "channelid": "3470",
+            "channelname": "HISTORY",
+            "channelicon": "http://vodpic.pmkifisdsa.cyou/pic/HISTORY.png",
+            "msg": "GFC"
+        },
+        {
+            "channelid": "3162",
+            "channelname": "SBT",
+            "channelicon": "http://vodpic.pmkifisdsa.cyou/pic/SBT.png",
+            "msg": "GFC"
+        },
+        {
+            "channelid": "3348",
+            "channelname": "UNIVERSAL",
+            "channelicon": "http://vodpic.pmkifisdsa.cyou/pic/UNIVERSAL.png",
+            "msg": "GFC"
+        }
+    ],
+    "vod": [
+        {
+            "sid": "125403",
+            "showname": "Homem-Aranha: Um Novo Dia Dublado",
+            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1791465390462.jpg",
+            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1792224466937.jpg"
+        },
+        {
+            "sid": "125402",
+            "showname": "Sobrenatural: Agora Entre Nós Dublado",
+            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1791465361895.jpg",
+            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1792224498790.jpg"
+        },
+        {
+            "sid": "125374",
+            "showname": "Toy Story 5 Dublado",
+            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1791463959709.jpg",
+            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1792224558988.jpg"
+        },
+        {
+            "sid": "125369",
+            "showname": "Ninja Wars: Blackfox Vs Shogun's Ninja Dublado",
+            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1791463833406.jpg",
+            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1792224588134.jpg"
+        },
+        {
+            "sid": "125752",
+            "showname": "A terapia certa Dublado",
+            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1792164324746.jpg",
+            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1792224644217.jpg"
+        },
+        {
+            "sid": "125753",
+            "showname": "Tulsa King 4ª Temporada Dublado",
+            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1792195141839.jpg",
+            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1792224749058.jpg"
+        },
+        {
+            "sid": "125684",
+            "showname": "Galera FC 2ª Temporada Dublado",
+            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1792046041516.jpg",
+            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1792224819939.jpg"
+        },
+        {
+            "sid": "125682",
+            "showname": "Tyson 1ª Temporada Dublado",
+            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1792042741668.jpg",
+            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1792224838711.jpg"
+        },
+        {
+            "sid": "125771",
+            "showname": "Marília Mendonça: Sentimento Louco 1ª Temporada Dublado",
+            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1792213201987.jpg",
+            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1792224930834.jpg"
+        },
+        {
+            "sid": "125677",
+            "showname": "VisionQuest 1ª Temporada Dublado",
+            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1792027741558.jpg",
+            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1792224954605.jpg"
+        }
+    ]
+}

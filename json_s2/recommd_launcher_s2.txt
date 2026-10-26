@@ -68,13 +68,13 @@
             "sid": "125403",
             "showname": "Homem-Aranha: Um Novo Dia Dublado",
             "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1791465390462.jpg",
-            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1792224466937.jpg"
+            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1792983922427.jpg"
         },
         {
-            "sid": "125402",
-            "showname": "Sobrenatural: Agora Entre Nós Dublado",
-            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1791465361895.jpg",
-            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1792224498790.jpg"
+            "sid": "126028",
+            "showname": "Código: Vingança Dublado",
+            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1792942922044.jpg",
+            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1792984119155.jpg"
         },
         {
             "sid": "125374",
@@ -83,46 +83,46 @@
             "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1792224558988.jpg"
         },
         {
-            "sid": "125369",
-            "showname": "Ninja Wars: Blackfox Vs Shogun's Ninja Dublado",
-            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1791463833406.jpg",
-            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1792224588134.jpg"
+            "sid": "125959",
+            "showname": "Noite Brutal Dublado",
+            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1792815241432.jpg",
+            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1792984178637.jpg"
         },
         {
-            "sid": "125752",
-            "showname": "A terapia certa Dublado",
-            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1792164324746.jpg",
-            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1792224644217.jpg"
+            "sid": "125944",
+            "showname": "Contra o Furacão Dublado",
+            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1792808701998.jpg",
+            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1792984201145.jpg"
         },
         {
-            "sid": "125753",
-            "showname": "Tulsa King 4ª Temporada Dublado",
-            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1792195141839.jpg",
-            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1792224749058.jpg"
+            "sid": "126022",
+            "showname": "Lupin 4ª Temporada Dublado",
+            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1792922281737.jpg",
+            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1792984455436.jpg"
         },
         {
-            "sid": "125684",
-            "showname": "Galera FC 2ª Temporada Dublado",
-            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1792046041516.jpg",
-            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1792224819939.jpg"
+            "sid": "125823",
+            "showname": "Uma Loja Para Assassinos 2ª Temporada Dublado",
+            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1792414562251.jpg",
+            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1792984620233.jpg"
         },
         {
-            "sid": "125682",
-            "showname": "Tyson 1ª Temporada Dublado",
-            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1792042741668.jpg",
-            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1792224838711.jpg"
+            "sid": "125847",
+            "showname": "Small Prophets 1ª Temporada Dublado",
+            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1792484462354.jpg",
+            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1792984704475.jpg"
         },
         {
-            "sid": "125771",
-            "showname": "Marília Mendonça: Sentimento Louco 1ª Temporada Dublado",
-            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1792213201987.jpg",
-            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1792224930834.jpg"
+            "sid": "125908",
+            "showname": "A Lista Terminal 2ª Temporada Dublado",
+            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1792636861589.jpg",
+            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1792984731841.jpg"
         },
         {
-            "sid": "125677",
-            "showname": "VisionQuest 1ª Temporada Dublado",
-            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1792027741558.jpg",
-            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1792224954605.jpg"
+            "sid": "126049",
+            "showname": "Crystal Lake 1ª Temporada Dublado",
+            "logo_s": "http://vodpic.pmkifisdsa.cyou/pic/1792954322307.jpg",
+            "logo_b": "http://vodpic.pmkifisdsa.cyou/pic/1792984784816.jpg"
         }
     ]
 }
